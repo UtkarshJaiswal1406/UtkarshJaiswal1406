@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pytranger&label=Profile%20views&color=0e75b6&style=flat" alt="pytranger" /> </p>
 
-- 🔭 I’m currently working on **Colyze**
+- 🌱 Currently learning **ExpressJs, Mongoose**
 
-- 🌱 I’m currently learning **ExpressJs, Mongoose**
-
-- 📝 I regularly write articles on [https://st0riesuntold.wixsite.com/main](https://st0riesuntold.wixsite.com/main)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
