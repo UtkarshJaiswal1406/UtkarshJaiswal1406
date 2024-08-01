@@ -3,8 +3,8 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pytranger&show_icons=true&locale=en&layout=compact" alt="pytranger" /></p>
 
 - 🌱 Currently learning **ExpressJs, Mongoose**
-- Working on Cybersecurity Fundamentals
-- Active Hackathon/CTF Participant
+- 🔭 Working on Cybersecurity Fundamentals
+- 📝 Active Hackathon/CTF Participant
 <h2 align="left">Languages and Tools:</h2>
 
 <h3 align="center">Programming Languages</h3>
