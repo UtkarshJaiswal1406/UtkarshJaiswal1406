@@ -1,5 +1,5 @@
 <h1 align="center">Utkarsh Jaiswal</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshjaiswal1406" alt="utkarshjaiswal1406" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshjaiswal1406&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshjaiswal1406" /> </p>
 
 - 🌱 Currently learning **ExpressJs, Mongoose**
 - 🔭 Working on Cybersecurity Fundamentals
