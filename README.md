@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7880E&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Utkarsh+Jaiswal+%3A)" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7880E&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Utkarsh+Jaiswal+%3A)" alt="Typing SVG" /></a>
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7880E&vCenter=true&random=true&width=435&lines=Web+Developer;UI%2FUX+Developer;Cybersecurity+Enthusiast;Tech+Speaker;Freelancer;Blogger" alt="Typing SVG" /></a>
 </p>
 
 # 📊 Stats:
