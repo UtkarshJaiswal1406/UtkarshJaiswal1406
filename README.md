@@ -1,6 +1,8 @@
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=UtkarshJaiswal1406&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshJaiswal1406&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshJaiswal1406&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshJaiswal1406&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 # 💻 Tech Stack:
 ### **Languages**
