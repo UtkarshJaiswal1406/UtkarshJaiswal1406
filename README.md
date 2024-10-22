@@ -1,7 +1,5 @@
 <h1 align="center">Utkarsh Jaiswal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshjaiswal1406&label=Profile%20views&color=0e75b6&style=flat" alt="pytranger" /> </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshjaiswal1406&show_icons=true&locale=en&layout=compact" alt="pytranger" /></p>
-
 - 🌱 Currently learning **ExpressJs, Mongoose**
 - 🔭 Working on Cybersecurity Fundamentals
 - 📝 Active Hackathon/CTF Participant
