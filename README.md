@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7880E&vCenter=true&random=true&width=435&lines=Hi%2C+I'm+Utkarsh+Jaiswal+%3A)" alt="Typing SVG" />
+</a>
+</p>
+
 # 📊 Stats:
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshJaiswal1406&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="48%" height="auto" />
