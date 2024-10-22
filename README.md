@@ -1,4 +1,4 @@
-# 📊 GitHub Stats:
+# 📊 Stats:
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshJaiswal1406&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="48%" height="auto" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshJaiswal1406&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="41%" height="auto" />
